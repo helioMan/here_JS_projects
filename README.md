@@ -5,7 +5,7 @@ A collection of JavaScript projects. Click on the project name to view the live 
 ## Projects
 
 1. **[Form Validator](https://helioman.github.io/here_JS_projects/index.html)**
-   - An aesthetically pleasing form validator that checks the validity of the inputs made by the user in the form (3 years ago).
+   - An aesthetically pleasing form validator that checks the validity of the inputs made by the user in the form (21/12/23).
 
 ## Usage
 
